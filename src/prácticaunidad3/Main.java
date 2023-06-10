@@ -36,7 +36,10 @@ public class Main {
             System.out.print("Fallo al ingresar");
         }
         saldoActual = miCuenta.getEstado();
-        System.out.println("El saldo actual es"+ saldoActual );
+        System.out.println("El saldo actual es"+ saldoActual);
+        System.out.println("Ha sido editado el proyecto");
     }
+    
+      
 
 }
